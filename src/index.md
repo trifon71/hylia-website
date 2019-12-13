@@ -1,7 +1,7 @@
 ---
 layout: home
 title: A simple starter kit for Eleventy
-metaTitle: Trifon Ribnishki
+metaTitle: Trifon's Hylia Starter Kit
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
