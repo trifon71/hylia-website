@@ -1,6 +1,7 @@
 ---
 layout: home
 title: A simple starter kit for Eleventy
+metaTitle: Trifon Ribnishki
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
